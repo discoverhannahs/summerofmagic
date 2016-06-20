@@ -11,7 +11,7 @@ permalink: /whats-on/
       <div class="row">
         {% if flipflop %}
           <div class="large-6 columns">
-            <img src="{{ site_url }}/{{ post.image-thumb }}" alt="" class="image-fill">
+            <img src="{{ site.baseurl }}/{{ post.image-thumb }}" alt="" class="image-fill">
           </div>
           <div class="large-6 columns">
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -38,7 +38,7 @@ permalink: /whats-on/
             <a href="{{ post.url }}" class="button">Read more</a>
           </div>
           <div class="large-6 columns">
-            <img src="{{ site_url }}/{{ post.image-thumb }}" alt="" class="image-fill">
+            <img src="{{ site.baseurl }}/{{ post.image-thumb }}" alt="" class="image-fill">
           </div>
           {% assign flipflop = true %}
         {% endif %}
