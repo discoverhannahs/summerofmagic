@@ -1,7 +1,7 @@
 <header class="site__header">
   <div class="row">
     <div class="large-12 columns">
-      <a href="{{ site_url }}/index.html"><img src="../img/title.png" alt="The Daily Prophet" class="title"></a>
+      <a href="{{ site.baseurl }}/index.html"><img src="{{ "/img/title.png"| prepend: site.baseurl }}" alt="The Daily Prophet" class="title"></a>
       {% include navigation.html %}
     </div>
   </div>
