@@ -1,0 +1,49 @@
+---
+layout: page
+title: What's On
+permalink: /whats-on/
+---
+
+{% assign flipflop = true %}
+<ul class="no-bullet">
+  {% for post in site.posts reversed %}
+    <li>
+      <div class="row">
+        {% if flipflop %}
+          <div class="large-6 columns">
+            <img src="{{ site_url }}/{{ post.image-thumb }}" alt="" class="image-fill">
+          </div>
+          <div class="large-6 columns">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            {% if post.dates %}
+            <p><strong>{{ post.dates }}</strong></p>
+            {% elsif post.date-end %}
+            <p><strong>{{ post.date | date: "%A %-d %B %Y" }} - {{ post.date-end | date: "%-d %B %Y" }}</strong></p>
+            {% else %}
+            <p><strong>{{ post.date | date: "%A %-d %B %Y" }}</strong></p>
+            {% endif %}
+            <a href="{{ post.url }}" class="button">Read more</a>
+          </div>
+          {% assign flipflop = false %}
+        {% else %}
+          <div class="large-6 columns text-right">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            {% if post.dates %}
+            <p><strong>{{ post.dates }}</strong></p>
+            {% elsif post.date-end %}
+            <p><strong>{{ post.date | date: "%A %-d %B %Y" }} - {{ post.date-end | date: "%-d %B %Y" }}</strong></p>
+            {% else %}
+            <p><strong>{{ post.date | date: "%A %-d %B %Y" }}</strong></p>
+            {% endif %}
+            <a href="{{ post.url }}" class="button">Read more</a>
+          </div>
+          <div class="large-6 columns">
+            <img src="{{ site_url }}/{{ post.image-thumb }}" alt="" class="image-fill">
+          </div>
+          {% assign flipflop = true %}
+        {% endif %}
+      </div>
+      <hr>
+    </li>
+  {% endfor %}
+</ul>

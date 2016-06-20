@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Summer of Magic at Hannahs at Seale-Hayne
+email: enquiries@discoverhannahs.org
+description: > # this means to ignore newlines until "baseurl:"
+  An awesome Summer of Magical events awaits you at Hannahs at Seale-Hayne, Newton Abbot.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+twitter_username: discoverhannahs
+github_username:  discoverhannahs
+
+# Build settings
+markdown: kramdown
+
+future: true
