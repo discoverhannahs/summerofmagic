@@ -14,7 +14,7 @@ permalink: /whats-on/
             <img src="{{ site.baseurl }}/{{ post.image-thumb }}" alt="" class="image-fill">
           </div>
           <div class="large-6 columns">
-            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
             {% if post.dates %}
             <p><strong>{{ post.dates }}</strong></p>
             {% elsif post.date-end %}
@@ -22,12 +22,12 @@ permalink: /whats-on/
             {% else %}
             <p><strong>{{ post.date | date: "%A %-d %B %Y" }}</strong></p>
             {% endif %}
-            <a href="{{ post.url }}" class="button">Read more</a>
+            <a href="{{ site.baseurl }}/{{ post.url }}" class="button">Read more</a>
           </div>
           {% assign flipflop = false %}
         {% else %}
           <div class="large-6 columns text-right">
-            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
             {% if post.dates %}
             <p><strong>{{ post.dates }}</strong></p>
             {% elsif post.date-end %}
@@ -35,7 +35,7 @@ permalink: /whats-on/
             {% else %}
             <p><strong>{{ post.date | date: "%A %-d %B %Y" }}</strong></p>
             {% endif %}
-            <a href="{{ post.url }}" class="button">Read more</a>
+            <a href="{{ site.baseurl }}/{{ post.url }}" class="button">Read more</a>
           </div>
           <div class="large-6 columns">
             <img src="{{ site.baseurl }}/{{ post.image-thumb }}" alt="" class="image-fill">
