@@ -4,7 +4,7 @@ title: About the exhibition
 permalink: /about-the-exhibition/
 ---
 
-<img src="{{ site.url }}/img/jimkay.jpg" alt="" class="article__image--portrait float-right">
+<img src="{{ site.baseurl }}/img/jimkay.jpg" alt="" class="article__image--portrait float-right">
 
 It’s on the front page of today’s Daily Prophet – delivered by owl, obviously. “Hogwarts is Coming to Hannahs!”
 
@@ -16,7 +16,7 @@ Jim Kay was personally selected by J.K. Rowling to bring her wizarding world ali
 
 <hr>
 
-![Image]({{ site.url }}/img/hp-ex3.jpg "Image")
+![Image]({{ site.baseurl }}/img/hp-ex3.jpg "Image")
 
 ### "Seeing Jim Kay’s illustrations moved me profoundly. I love his interpretation of Harry Potter’s world, and I feel honoured and grateful that he has lent his talent to it.""
 
