@@ -35,4 +35,4 @@ Visitors will be able to pore over intricate sketches and stunning pencil drawin
 
 Jim Kay is the 2012 Kate Greenaway Medal winning illustrator of A Monster Calls by Patrick Ness whose impressive illustrative style is atmospheric and haunting. Jim loves to work with print but turned to watercolour and pencil for his more recent work. His beautiful new illustrated edition of the nation’s favourite children’s book is brimming with rich detail and humour that perfectly complements J.K. Rowling’s timeless classic, captivating fans and new readers alike.
 
-Hannahs at Seale-Hayne (just outside Newton Abbot) is the *first venue* to host the exhibition, since it opened in Newcastle at the end of 2015. The exhibition will be the inspiration of a whole summer of magical events, with more details coming soon.
+Hannahs at Seale-Hayne (just outside Newton Abbot) is the *first venue* to host the exhibition, since it opened in Newcastle at the end of 2015.
