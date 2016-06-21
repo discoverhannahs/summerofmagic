@@ -6,11 +6,11 @@ permalink: /about-the-exhibition/
 
 <img src="{{ site.baseurl }}/img/jimkay.jpg" alt="" class="article__image--portrait float-right">
 
-It’s on the front page of today’s Daily Prophet – delivered by owl, obviously. “Hogwarts is Coming to Hannahs!”
+**It’s on the front page of today’s Daily Prophet – delivered by owl, obviously. “Hogwarts is Coming to Hannahs!”**
 
-Grab your wand and prepare to hop on your Nimbus 3000, as a stunning exhibition called Illustrating Harry Potter comes to the Seale-Hayne site this summer (July – September), showcasing original illustrations, sketches, models and final prints from the brand new edition of J.K. Rowling’s Harry Potter and the Philosopher’s Stone, illustrated by Jim Kay.
+Grab your wand and prepare to hop on your Nimbus 3000, as a stunning exhibition called Illustrating Harry Potter comes to the [Seale-Hayne](http://www.discoverhannahs.org) site this summer (July – September), showcasing original illustrations, sketches, models and final prints from the brand new edition of J.K. Rowling’s Harry Potter and the Philosopher’s Stone, illustrated by Jim Kay.
 
-The spellbinding exhibition has been put together by Seven Stories: The National Centre for Children’s Books in Newcastle (where the exhibition is currently running), and Bloomsbury Children’s Books.
+The spellbinding exhibition has been put together by [Seven Stories: The National Centre for Children’s Books](http://www.sevenstories.org.uk/) in Newcastle (where the exhibition is currently running), and Bloomsbury Children’s Books.
 
 Jim Kay was personally selected by J.K. Rowling to bring her wizarding world alive with his dazzling illustrations. Over the next few years, Jim will be reimagining all seven books, with the first now available in a beautiful hardback edition.
 
@@ -18,7 +18,7 @@ Jim Kay was personally selected by J.K. Rowling to bring her wizarding world ali
 
 ![Image]({{ site.baseurl }}/img/hp-ex3.jpg "Image")
 
-### "Seeing Jim Kay’s illustrations moved me profoundly. I love his interpretation of Harry Potter’s world, and I feel honoured and grateful that he has lent his talent to it.""
+### "Seeing Jim Kay’s illustrations moved me profoundly. I love his interpretation of Harry Potter’s world, and I feel honoured and grateful that he has lent his talent to it."
 
 **J.K.Rowling**
 
