@@ -5,6 +5,7 @@ date: 2016-07-29
 tags: event, outdoors
 image-main: assets/posts/magicalcampfirestories.jpg
 image-thumb: assets/posts/magicalcampfirestories-th.jpg
+booking: http://www.brownpapertickets.com/event/2561199
 ---
 
 Storytelling around the campfire with hot chocolate to drink and marshmallows to toast.

@@ -3,8 +3,9 @@ layout: post
 title:  "Murder at the School of Magic"
 date:   2016-07-09
 tags: event
-image-main: assets/posts/murdermystery.jpg
-image-thumb: assets/posts/murdermystery-th.jpg
+image-main: assets/posts/murder-school.jpg
+image-thumb: assets/posts/murder-school-th.jpg
+booking: http://www.brownpapertickets.com/event/2561520
 ---
 
 **The Demon of the Well**

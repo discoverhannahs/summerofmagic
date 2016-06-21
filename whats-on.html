@@ -4,46 +4,48 @@ title: What's On
 permalink: /whats-on/
 ---
 
-{% assign flipflop = true %}
-<ul class="no-bullet">
-  {% for post in site.posts reversed %}
-    <li>
-      <div class="row">
-        {% if flipflop %}
-          <div class="large-6 columns">
-            <img src="{{ site.baseurl }}/{{ post.image-thumb }}" alt="" class="image-fill">
-          </div>
-          <div class="large-6 columns">
-            <h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
-            {% if post.dates %}
-            <p><strong>{{ post.dates }}</strong></p>
-            {% elsif post.date-end %}
-            <p><strong>{{ post.date | date: "%A %-d %B %Y" }} - {{ post.date-end | date: "%-d %B %Y" }}</strong></p>
-            {% else %}
-            <p><strong>{{ post.date | date: "%A %-d %B %Y" }}</strong></p>
-            {% endif %}
-            <a href="{{ site.baseurl }}/{{ post.url }}" class="button">Read more</a>
-          </div>
-          {% assign flipflop = false %}
+<div class="row">
+  <div class="small-up-1 medium-up-2 large-up-2">
+    {% for post in site.posts reversed %}
+    {% unless post.title == 'Open Air Cinema' %}
+    <div class="column text-center">
+      <div class="event">
+        <a href="{{ post.url | prepend: site.baseurl }}" class=""><img src="{{ site.baseurl }}/{{ post.image-thumb }}" alt="" class="event__image"/></a>
+        <h3 class="event_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+        <div class="event__text">
+          {% if post.dates %}
+          <p><strong>{{ post.dates }}</strong></p>
+          {% elsif post.date-end %}
+          <p><strong>{{ post.date | date: "%A %-d %B %Y" }} - {{ post.date-end | date: "%-d %B %Y" }}</strong></p>
+          {% else %}
+          <p><strong>{{ post.date | date: "%A %-d %B %Y" }}</strong></p>
+          {% endif %}
+        </div>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="button">Read more</a>
+      </div>
+    </div>
+    {% endunless %}
+    {% endfor %}
+  </div>
+</div>
+{% for post in site.posts reversed %}
+{% if post.title == 'Open Air Cinema' %}
+<div class="row">
+  <div class="small-up-12 medium-up-12 large-up-12">
+    <div class="event text-center">
+      <img src="{{ site.baseurl }}/{{ post.image-main }}" alt="" class="event__image">
+      <h3 class="event_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+      <div class="event__text">
+        {% if post.dates %}
+        <p><strong>{{ post.dates }}</strong></p>
+        {% elsif post.date-end %}
+        <p><strong>{{ post.date | date: "%A %-d %B %Y" }} - {{ post.date-end | date: "%-d %B %Y" }}</strong></p>
         {% else %}
-          <div class="large-6 columns text-right">
-            <h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
-            {% if post.dates %}
-            <p><strong>{{ post.dates }}</strong></p>
-            {% elsif post.date-end %}
-            <p><strong>{{ post.date | date: "%A %-d %B %Y" }} - {{ post.date-end | date: "%-d %B %Y" }}</strong></p>
-            {% else %}
-            <p><strong>{{ post.date | date: "%A %-d %B %Y" }}</strong></p>
-            {% endif %}
-            <a href="{{ site.baseurl }}/{{ post.url }}" class="button">Read more</a>
-          </div>
-          <div class="large-6 columns">
-            <img src="{{ site.baseurl }}/{{ post.image-thumb }}" alt="" class="image-fill">
-          </div>
-          {% assign flipflop = true %}
+        <p><strong>{{ post.date | date: "%A %-d %B %Y" }}</strong></p>
         {% endif %}
       </div>
-      <hr>
-    </li>
-  {% endfor %}
-</ul>
+      <a href="{{ post.url | prepend: site.baseurl }}" class="button">Read more</a>
+  </div>
+</div>
+{% endif %}
+{% endfor %}

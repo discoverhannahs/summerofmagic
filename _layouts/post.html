@@ -16,5 +16,9 @@ layout: default
   <section>
     {{ content }}
   </section>
-  <footer></footer>
+  <footer>
+    {% if page.booking %}
+    <a href="{{ page.booking }}" class="large expanded button">Book online</a>
+    {% endif %}
+  </footer>
 </article>

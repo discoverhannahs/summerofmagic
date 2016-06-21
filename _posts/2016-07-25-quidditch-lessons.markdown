@@ -7,6 +7,7 @@ dates: Mondays over the School Holidays (25 July – 29 August)
 tags: event, outdoors, school-holidays
 image-main: assets/posts/quidditchlessons.jpg
 image-thumb: assets/posts/quidditchlessons-th.jpg
+booking: http://www.brownpapertickets.com/event/2563017
 ---
 
 Children are invited to sample a Quidditch taster session, based on the sport from the Harry Potter books and films. Quidditch is a mixed gender contact sport and broomsticks will be provided!

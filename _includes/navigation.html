@@ -1,9 +1,18 @@
 <nav>
-    <ul class="vertical medium-horizontal menu expanded">
-      <li><a href="{{ site.baseurl }}/about-the-exhibition" class="button">About the Exhibition</a></li>
-      <li><a href="{{ site.baseurl }}/whats-on" class="button">What's on</a></li>
-      <li><a href="{{ site.baseurl }}/info" class="button">General information</a></li>
-      <li><a href="{{ site.baseurl }}/visit-us" class="button">Where to find us</a></li>
-      <li><a href="{{ site.baseurl }}/contact-us" class="button">Contact us</a></li>
-    </ul>
+  <div class="title-bar" data-responsive-toggle="nav-menu" data-hide-for="medium">
+    <button class="menu-icon" type="button" data-toggle>Menu</button>
+    <div class="title-bar-title"></div>
+  </div>
+
+  <div class="top-bar" id="nav-menu">
+    <div class="menu-centered">
+      <ul class="vertical medium-horizontal menu">
+        <li><a href="{{ site.baseurl }}/about-the-exhibition" class="menu--navigation__link">About the Exhibition</a></li>
+        <li><a href="{{ site.baseurl }}/whats-on" class="menu--navigation__link">What's on</a></li>
+        <li><a href="{{ site.baseurl }}/info" class="menu--navigation__link">General information</a></li>
+        <li><a href="{{ site.baseurl }}/visit-us" class="menu--navigation__link">Where to find us</a></li>
+        <li><a href="{{ site.baseurl }}/contact-us" class="menu--navigation__link">Contact us</a></li>
+      </ul>
+    </div>
+  </div>
 </nav>

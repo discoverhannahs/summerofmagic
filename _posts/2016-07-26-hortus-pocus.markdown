@@ -7,6 +7,7 @@ dates: Tuesdays over the summer holidays (26 July – 29 August)
 tags: event, outdoors, school-holidays
 image-main: assets/posts/hortuspocus.jpg
 image-thumb: assets/posts/hortuspocus-th.jpg
+booking: http://www.brownpapertickets.com/event/2563033
 ---
 
 Children (ages 5+) can discover herbology and the magic of plants with our Professor of Peculiar Potions. Hunt down ingredients and brew some enchanting potions, with a magical elixir to take home with you at the end of the session.
