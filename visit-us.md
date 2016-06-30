@@ -1,6 +1,11 @@
 ---
 layout: page
 title: Visit us
+permalink: /visit-us/
+sitemap:
+  priority: 0.7
+  changefreq: 'monthly'
+  lastmod: 2016-06-30T12:49:30-05:00
 ---
 
 **Here at Hannahs we are committed to sustainable travel. Onsite we have access to Trampers (all terrain mobility scooters), cycle hire, mobility scooters.**

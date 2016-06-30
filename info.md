@@ -2,6 +2,10 @@
 layout: page
 title: General Information
 permalink: /info/
+sitemap:
+  priority: 0.7
+  changefreq: 'monthly'
+  lastmod: 2016-06-30T12:49:30-05:00
 ---
 
 ## Make the most of your wizarding visit!

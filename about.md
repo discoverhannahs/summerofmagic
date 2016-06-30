@@ -2,6 +2,11 @@
 layout: about
 title: About the exhibition
 permalink: /about-the-exhibition/
+
+sitemap:
+  priority: 0.7
+  changefreq: 'monthly'
+  lastmod: 2016-06-30T12:49:30-05:00
 ---
 
 <img src="{{ site.baseurl }}/img/jimkay.jpg" alt="" class="article__image--portrait float-right">
