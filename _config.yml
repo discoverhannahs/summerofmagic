@@ -21,3 +21,6 @@ github_username:  discoverhannahs
 markdown: kramdown
 
 future: true
+
+gems:
+  - jekyll-sitemap
