@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Playfully Exploring Drawing"
-date:   2016-07-15
+date:   2016-07-18
 tags: event, workshop
 image-main: assets/posts/drawing.jpg
 image-thumb: assets/posts/drawing-th.jpg
