@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Harry Potter's Birthday"
-date:   2016-07-29
+date:   2016-07-31
 tags: event
 image-main: assets/posts/hpbirthdaypicnic.jpg
 image-thumb: assets/posts/hpbirthdaypicnic-th.jpg
