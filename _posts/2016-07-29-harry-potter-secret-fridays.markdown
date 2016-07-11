@@ -11,9 +11,8 @@ image-thumb: assets/posts/secretfridays-th.jpg
 
 Each Friday over the summer holidays, Play Torbay (joined by their magical Junior Play Rangers) will be presenting exciting hour long activity sessions inspired by Harry Potter. As well as (optional) dressing up, games and songs, children will also get to take part in an art activity and take home their Harry Potter-themed creations. Each week will be a different theme, so children could end up making wands, designing fantastic beasts, making their own magic wallet (complete with Hogwarts money), designing their own crest or creating their very own marauders map.
 
-*Friday 29 July*
-
-**Transfiguration and Magical Creatures**
+######Friday 29 July
+##Transfiguration and Magical Creatures
 
 After being put into teams using the magic sorting hat, children will then get to play a spellbinding sculpting game before making a wand and a mini owl to take home!
 
