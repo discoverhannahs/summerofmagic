@@ -2,6 +2,7 @@
 layout: post
 title:  "Friday Inc."
 date:   2016-07-15
+published: false
 tags: event
 image-main: assets/posts/fridayinc.jpg
 image-thumb: assets/posts/fridayinc-th.jpg

@@ -2,6 +2,7 @@
 layout: post
 title:  "Creating Creature and Characters"
 date:   2016-07-03
+published: false
 tags: event, workshop
 image-main: assets/posts/drawing.jpg
 image-thumb: assets/posts/drawing-th.jpg

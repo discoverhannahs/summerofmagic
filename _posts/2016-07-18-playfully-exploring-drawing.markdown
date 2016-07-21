@@ -3,6 +3,7 @@ layout: post
 title:  "Playfully Exploring Drawing"
 date:   2016-07-18
 tags: event, workshop
+published: false
 image-main: assets/posts/drawing.jpg
 image-thumb: assets/posts/drawing-th.jpg
 booking: http://www.brownpapertickets.com/event/2561160

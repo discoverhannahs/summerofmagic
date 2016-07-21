@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Harry Potter Astronomy"
-date:   2016-07-22
+date:   2016-08-19
 date-end: 2016-09-23
-dates: Friday 22 July, 19 August & 23 September
+dates: Friday 19 August & 23 September
 tags: event, outdoors
 image-main: assets/posts/astronomy.jpg
 image-thumb: assets/posts/astronomy-th.jpg
