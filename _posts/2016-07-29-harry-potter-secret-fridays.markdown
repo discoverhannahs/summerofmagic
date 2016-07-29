@@ -28,9 +28,9 @@ After being put into teams using the magic sorting hat, children will then get t
 <hr>
 
 *Friday 12 August*
-**Magical charms**
+**Spells**
 
-After being put into teams using the magic sorting hat, children will then get to make some Hogwarts money and a magic wallet – but this isn’t just any wallet and nothing is as it seems.
+After being into teams using the magic sorting hat, children will be able to make their own quill pen and practice their penmanship, before trying out some spells. Aparecium reveals invisible ink, Avifors turns small objects into birds, or what about creating your own spell?
 
 <hr>
 
@@ -42,9 +42,9 @@ After being put into teams using the magic sorting hat, children will be challen
 <hr>
 
 *Friday 26 August*
-**Spells**
+**Magical charms**
 
-After being into teams using the magic sorting hat, children will be able to make their own quill pen and practice their penmanship, before trying out some spells. Aparecium reveals invisible ink, Avifors turns small objects into birds, or what about creating your own spell?
+After being put into teams using the magic sorting hat, children will then get to make some Hogwarts money and a magic wallet – but this isn’t just any wallet and nothing is as it seems.
 
 <hr>
 
