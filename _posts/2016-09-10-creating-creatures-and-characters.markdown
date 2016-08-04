@@ -4,7 +4,6 @@ title:  "Creating Creatures and Characters"
 date:   2016-09-10
 date-end: 2016-09-18
 dates: Saturday 10 & Sunday 18 September
-published: false
 tags: event, workshop
 image-main: assets/posts/drawing.jpg
 image-thumb: assets/posts/drawing-th.jpg
