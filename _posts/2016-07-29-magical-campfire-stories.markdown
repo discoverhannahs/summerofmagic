@@ -2,6 +2,7 @@
 layout: post
 title:  "Magical Campfire Stories"
 date: 2016-07-29
+published: false
 tags: event, outdoors
 image-main: assets/posts/magicalcampfirestories.jpg
 image-thumb: assets/posts/magicalcampfirestories-th.jpg

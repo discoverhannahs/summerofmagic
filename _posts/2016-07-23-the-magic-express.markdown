@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "The Magic Express"
-date:   2016-07-23
+date:   2016-08-13
 date-end: 2016-08-20
-dates: Saturday 23 July, 13 & 20 August
+dates: Saturday 13 & 20 August
 tags: event
 image-main: assets/posts/magicexpress.jpg
 image-thumb: assets/posts/magicexpress-th.jpg

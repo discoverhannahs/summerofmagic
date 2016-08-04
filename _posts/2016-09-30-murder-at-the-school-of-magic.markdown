@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Murder at the School of Magic"
-date:   2016-08-05
+date:   2016-09-30
 tags: event
 image-main: assets/posts/murder-school.jpg
 image-thumb: assets/posts/murder-school-th.jpg
